@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    background-image: url(TODO.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.container1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+    .container2{
+        background-color:rgb(115, 184, 184);
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+#inputVal{
+background-color: rgb(207, 247, 240);
+border-radius: 10px;
+}
+button{
+    background-color: rgb(182, 182, 241);
+    border-radius: 10px;
+}
+
+
+i{
+    font-size: 20px;
+    font-weight: 10%;
+}
